@@ -9,9 +9,8 @@ They want to understand the factors on which the demand for these shared bikes d
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Technologies Used](#technologies-used)
+- [Packages Used](#packages-used)
 - [Conclusions](#conclusions)
-- [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
