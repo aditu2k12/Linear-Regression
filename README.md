@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Linear-Regression
 =======
 # Bike Sharing Assignment
