@@ -1,5 +1,5 @@
-# Linear-Regression
-=======
+# Linear Regression
+
 # Bike Sharing Assignment
 
 > BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19.
@@ -48,7 +48,7 @@ They want to understand the factors on which the demand for these shared bikes d
 
 ## Contact
 
-Created by [@AdityaSingh] - feel free to contact me!
+Created by [@AdityaSingh]
 
 <!-- Optional -->
 <!-- ## License -->
